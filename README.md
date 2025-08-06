@@ -1,6 +1,4 @@
 # Vizuara-nanoKimi-Challenge
-Of course. Here is a professional and comprehensive README.md file for your GitHub repository. Just copy and paste this into the README.md file on GitHub, and then fill in the bracketed [...] information with your final numbers and the link to your repository.
-
 nanoKimi: A Minimalist Implementation of a Kimi-K2-Inspired Architecture
 
 This repository contains the source code and analysis for nanoKimi, a minimal, single-file implementation of a Kimi-K2-inspired transformer. This project was completed as a submission for the Vizuara Research Wing Research Challenge.
